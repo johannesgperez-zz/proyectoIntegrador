@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+* {
+	box-sizing: border-box;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 10px;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+img{
+  width:100%;
+}
+
+ul, ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	display: inline-block;
+}
+
+.container{
+	margin: 0 15px;
+}
+
+.main-footer {
+	margin-top: 20px;
+}
+
+
+
+/* MEDIA QUERIES
+Tablet
+@media(min-width: 760px) {
+
+}
+
+/* Desktop
+@media(min-width: 1200px) {
+
+}
