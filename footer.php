@@ -1,17 +1,22 @@
 <footer class="main-footer">
-  <div>
-    <p>
-      Copyright © 2018 by JLM
-    </p>
-
-  </div>
-    Síguenos en:
-    <ul>
-      <li><i class="fab fa-facebook-f"></i></li>
-      <li><i class="fab fa-instagram"></i></li>
-      <li><i class="fab fa-twitter"></i></li>
+<ul>
+  <li>Síguenos en:</li>
+  <!-- Iconos -->
+  <li><a href="https://es-la.facebook.com"><div class="icons"><i class="fab fa-facebook-f"></i></div></a></li>
+  <li><a href="https://www.instagram.com"><div class="icons"><i class="fab fa-instagram"></i></div></a></li>
+  <li><a href="https://twitter.com"><div class="icons"><i class="fab fa-twitter"></i></div></a></li>
     </ul>
+    <div class="copyright">
+    <p>Copyright © 2018 by JLM</p>
+    </div>
 </footer>
 </div>
+<!-- Revisar
+<script src="js/jquery.min.js"></script>
+<script>
+  $('.toggle-nav').click(function () {
+			$('.main-nav').slideToggle();
+		});
+</script> -->
 </body>
 </html>

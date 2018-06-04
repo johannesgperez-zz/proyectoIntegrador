@@ -1,4 +1,4 @@
-<title>All Service - Preguntas</title>
+<title>LevelUP - Preguntas</title>
 
     <!-- Header -->
     <?php require_once 'header.php'; ?>

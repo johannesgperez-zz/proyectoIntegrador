@@ -1,4 +1,4 @@
-<title>All Service - Registro</title>
+<title>LevelUP - Registro</title>
 
     <!-- Header -->
     <?php require_once 'header.php'; ?>
