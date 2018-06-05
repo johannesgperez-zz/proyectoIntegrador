@@ -1,27 +1,19 @@
-<title>LevelUP - Ingreso Sesion</title>
+<title>LevelUP - Login</title>
 
     <!-- Header -->
     <?php require_once 'header.php'; ?>
-
-    <h1>Ingresá</h1>
-
-    <form action="" method="post">
-    <div>
-        <label for="name">Usuario:</label>
-        <input type="text" id="name" />
-    </div>
-    <br>
-    <div>
-        <label for="name">Contraseña:</label>
-        <input type="text" id="name" />
-    </div>
-    <br>
-    <div>
-        <a href="#">Olvidé mi contraseña</a>
-    </div>
-    <br>
-  </form>
-
+    <form action="login.php" method="post" class="form-login">
+        <h2 class="form-titulo">Ingresá</h2>
+            <div class="contenedor-inputs">
+            <input type="text" name="usuario" placeholder="&#128272; Usuario">
+            <input type="password" name="contraseña" placeholder="&#128272; Contraseña" >
+            <input type="submit" value="Iniciar sesión" class="boton-iniciar-sesión">
+            <br>
+            <p class="resset-password"><a href="#">¿Olvidaste tu contraseña?</a></p>
+            <br>
+            <p class="form-link"> ¿No tienes una cuenta? <a href="registro.php">Registrate</a></p>
+        </div>
+    </form>
 
     <!-- Footer -->
     <?php require_once 'footer.php'; ?>

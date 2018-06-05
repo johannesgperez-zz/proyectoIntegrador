@@ -11,12 +11,5 @@
     </div>
 </footer>
 </div>
-<!-- Revisar
-<script src="js/jquery.min.js"></script>
-<script>
-  $('.toggle-nav').click(function () {
-			$('.main-nav').slideToggle();
-		});
-</script> -->
 </body>
 </html>

@@ -19,7 +19,7 @@
       <nav class="main-nav">
         <!-- Logo LevelUP -->
       <img src="img/logo.svg" alt="">
-        <ul>
+        <ul class="nav-items">
           <li>
             <a href="index.php">Inicio</a>
           </li>
