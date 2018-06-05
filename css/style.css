@@ -6,7 +6,7 @@
 /* General */
 body {
   font-family: 'Quicksand', sans-serif;
-  font-size: 15px;
+  font-size: 14px;
   text-align: center;
 }
 
@@ -170,6 +170,12 @@ a {
 	
 	.titulos_otros{
 		font-size: 18px;
+	}
+
+	.parrafo {
+		text-align: justify;
+		margin-left: 10px;
+		margin-right: 10px;
 	}
 
 /* MEDIA QUERIES 

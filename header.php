@@ -30,7 +30,7 @@
             <a href="ingreso_sesion.php">Ingresá</a>
           </li>
           <li>
-            <a href="preguntas.php">Preguntas Frequentes</a>
+            <a href="preguntas.php">Preguntas Frecuentes</a>
           </li>
         </ul>
       </nav>
